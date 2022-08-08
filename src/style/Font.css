@@ -1,0 +1,26 @@
+@font-face {
+    font-family: proximaNova-regular;
+    src: url(../asset/font/ProximaNova-Regular.otf);
+}
+
+.proximanova-regular{
+    font-family: proximaNova-regular;
+}
+
+@font-face {
+    font-family: proximaNova-semibold;
+    src: url(../asset/font/Proxima\ Nova\ Bold.otf);
+}
+
+.proximanova-semibold{
+    font-family: proximaNova-semibold;
+}
+
+@font-face {
+    font-family: proximaNova-bold;
+    src: url(../asset/font/Proxima\ Nova\ Extrabold.otf);
+}
+
+.proximanova-bold{
+    font-family: proximaNova-bold;
+}
